@@ -1,9 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joeholmes21.joeholmes21&"  />
-</div>
-
-###
-
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/179493833?v=4"  />
 </div>
