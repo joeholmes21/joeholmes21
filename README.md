@@ -1,5 +1,5 @@
 <div align="right">
-  ![visitors](https://visitor-badge.glitch.me/badge?joeholmes21=joeholmes21)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joeholmes21.joeholmes21&"  />
 </div>
 
 ###
